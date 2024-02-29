@@ -3,7 +3,7 @@
 ## :book: Introduction
 
 美國拼寫手語（ASL Fingerspelling）是利用特定手勢來表達特定的英文字母，可以補足一般手語
-系統中無法表示的概念，常用於表達人名、專有名詞
+系統中無法表示的概念，常用於表達人名、專有名詞。
 
 現有的手語學習工具大多使用影片教學，對於學習手語拼寫的初學者而言缺少互動性和趣味性。
 少數採用遊戲化的方式，卻採用「猜測圖片代表的手勢」， 缺少實際演練讓人很難提起學習興趣 。
@@ -28,19 +28,19 @@
 * pygame
 
 ##  Results
-![1](https://hackmd.io/_uploads/Skn0AopnT.png)
+![](https://github.com/jaifenny/Lets_Play_Fingerspelling/blob/main/picture/1.png)
 
-![2](https://hackmd.io/_uploads/BkA1Jhahp.png)
+![](https://github.com/jaifenny/Lets_Play_Fingerspelling/blob/main/picture/2.png)
 
-![3](https://hackmd.io/_uploads/rkN-Jn6np.png)
+![](https://github.com/jaifenny/Lets_Play_Fingerspelling/blob/main/picture/3.png)
 
-![4](https://hackmd.io/_uploads/B12-kn62p.png)
+![](https://github.com/jaifenny/Lets_Play_Fingerspelling/blob/main/picture/4.png)
 
-![5](https://hackmd.io/_uploads/H1MMJ3an6.png)
+![](https://github.com/jaifenny/Lets_Play_Fingerspelling/blob/main/picture/5.png)
 
-![6](https://hackmd.io/_uploads/rkdfyh6n6.png)
+![](https://github.com/jaifenny/Lets_Play_Fingerspelling/blob/main/picture/6.png)
 
-![7](https://hackmd.io/_uploads/B1AGkn63p.png)
+![](https://github.com/jaifenny/Lets_Play_Fingerspelling/blob/main/picture/7.png)
 
 
 ## Conclusion
