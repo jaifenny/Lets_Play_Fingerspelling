@@ -1,0 +1,6 @@
+opencv-python
+mediapipe
+scikit-learn==1.2.0
+tensorflow # Tensorflow Lite for Kaggle Model
+PyQt5
+pygame
